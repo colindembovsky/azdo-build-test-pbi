@@ -1,6 +1,8 @@
 # Azue DevOps Build and Test PowerBI Template
 This PowerBI template allows you to report off builds for the last two weeks, including queue information, test information and coverage information.
 
+Download the PBIT file and connect it to your organization.
+
 ## Connecting
 There is a parameter (Azure DevOps Organization) and two connections that you need to authenticate.
 
